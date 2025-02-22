@@ -9,7 +9,7 @@ The following steps were undertaken to clean, transform, and analyze the dataset
 
 1. Data Cleaning: Column names were updated to improve clarity and better reflect the dataset.
 
-2.Data Transformation: The dataset was pivoted to allow price comparisons across years within a single row. Previously, the data was structured in a single column format.
+2. Data Transformation: The dataset was pivoted to allow price comparisons across years within a single row. Previously, the data was structured in a single column format.
 
 3. Quarterly Averaging: To mitigate extreme price variations, the average prices for the first quarter (Jan, Feb, Mar) of 2017 and the last quarter (Oct, Nov, Dec) of 2024 were calculated. This adjustment helped balance fluctuations that might disrupt the findings.
 
